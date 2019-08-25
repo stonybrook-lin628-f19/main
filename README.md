@@ -1,5 +1,5 @@
-Mathematical Methods in Linguistics
-===================================
+Computational syntax
+====================
 
 
 | Course        | Info                            |
@@ -14,16 +14,16 @@ Mathematical Methods in Linguistics
 | Office hours  | tbd                             |
 | Office        | SBS N-249                       |
 
-Course Outline
+Course outline
 --------------
 
-### Bulletin Description
+### Bulletin description
 
 An in-depth survey of natural language syntax from a computational perspective.
 The primary focus is on combining state-of-the-art techniques from formal language theory with empirical insights from linguistic theory.
 Topics covered vary by year and may include tree transducers, logics for tree description, weak and strong generative capacity of natural language, lexicalized grammar formalisms, unification grammars, or the expressivity of probabilistic formalisms.
 
-### Full Description
+### Full description
 
 This course will focus on three aspects of computational syntax and  evaluate them from a perspective that is equally rooted in theoretical linguistics and NLP:
 
@@ -54,7 +54,7 @@ Students who do not satisfy this requirement should be enrolled in Syntax 1 at t
 No other computational courses are enforced prerequisites, but students who have not taken MathMethods, CompLing 1 or CompLing 2 should bring a great deal of willingness to engage with syntax at a high level of abstraction and formalization.
 
 
-Selected Topics
+Selected topics
 ---------------
 
 ### Schedule
@@ -96,7 +96,7 @@ All readings will be made available in the [readings repository](https://lin628.
 This is a private Github repository, so students will need a Github account to get access.
 
 
-Teaching Goals
+Teaching goals
 --------------
 
 - assess the challenges of syntax for cognitive science on the one hand and language technology on the other hand
@@ -157,7 +157,7 @@ Policies
 - Reply time < 24h in simple cases, possibly more if meddling with bureaucracy is involved.
 - If you want to come to my office hours and anticipate a longer meeting, please email me so that we can set apart enough time and avoid collisions with other students.
 
-### Disability Support Services
+### Disability support services
 
 If you have a physical, psychological, medical or learning disability that may impact your course work, please contact Student Accessibility Support Center, ECC (Educational Communications Center) Building, Room 128, (631)632-6748.
 They will determine with you what accommodations, if any, are necessary and appropriate.
@@ -166,14 +166,14 @@ All information and documentation is confidential.
 Students who require assistance during emergency evacuation are encouraged to discuss their needs with their professors and Student Accessibility Support Center.
 For procedures and information go to the following website: <http://www.stonybrook.edu/ehs/fire/disabilities>.
 
-### Academic Integrity
+### Academic integrity
 
 Each student must pursue his or her academic goals honestly and be personally accountable for all submitted work.
 Representing another person's work as your own is always wrong. Faculty is required to report any suspected instances of academic dishonesty to the Academic Judiciary.
 Faculty in the Health Sciences Center (School of Health Technology & Management, Nursing, Social Welfare, Dental Medicine) and School of Medicine are required to follow their school-specific procedures.
 For more comprehensive information on academic integrity, including categories of academic dishonesty please refer to the academic judiciary website at <http://www.stonybrook.edu/commcms/academic_integrity/index.html>.
 
-### Critical Incident Management
+### Critical incident management
 
 Stony Brook University expects students to respect the rights, privileges, and property of other people.
 Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
