@@ -27,24 +27,24 @@ Topics covered vary by year and may include tree transducers, logics for tree de
 
 This course will focus on three aspects of computational syntax and  evaluate them from a perspective that is equally rooted in theoretical linguistics and NLP:
 
-1. Does syntax require tree structures?
+1.  Does syntax require tree structures?
 
-We will look at finite-state approaches to syntax and how these formalisms, even though they generate strings instead of trees, naturally give rise to tree structures.
-We will also discuss why the competence-performance distinction is computationally inevitable, and what this entails for real-world applications. 
+    We will look at finite-state approaches to syntax and how these formalisms, even though they generate strings instead of trees, naturally give rise to tree structures.
+    We will also discuss why the competence-performance distinction is computationally inevitable, and what this entails for real-world applications. 
 
-2. What purpose does syntactic structure serve?
+2.  What purpose does syntactic structure serve?
 
-Combinatory Categorial Grammar (CCG) will be introduced as an example of how syntactic structure isn't just a matter of ivory-tower theorizing, but offers concrete advantages in real-world applications.
-In particular, we will look at how CCG directly maps syntactic structures to semantic interpretations, why CCG's allow for efficient parsing, and how CCGs are automatically inferred from corpora.
-CCGs will be contrasted to Minimalist grammars (MGs), a formalization of Minimalist syntax.
-Great attention will be paid to what parts of the MG ecosystem are currently lacking compared to CCG, and what needs to happen for MGs to make major inroads into NLP.
+    Combinatory Categorial Grammar (CCG) will be introduced as an example of how syntactic structure isn't just a matter of ivory-tower theorizing, but offers concrete advantages in real-world applications.
+    In particular, we will look at how CCG directly maps syntactic structures to semantic interpretations, why CCG's allow for efficient parsing, and how CCGs are automatically inferred from corpora.
+    CCGs will be contrasted to Minimalist grammars (MGs), a formalization of Minimalist syntax.
+    Great attention will be paid to what parts of the MG ecosystem are currently lacking compared to CCG, and what needs to happen for MGs to make major inroads into NLP.
 
-3. What are the limits of syntactic structure?
+3.  What are the limits of syntactic structure?
 
-CCG and MGs (and any other grammar formalism under the sky) still allows for massive overgeneration.
-Overgeneration is not only theoretically unappealing, it also complicates parsing and machine learning.
-I will discuss recent work on subregular syntax that identifies tighter restrictions on the shape of syntactic structures.
-This work ties directly into my NSF Career award, and this part of the course acts as a kind of boot camp for potential RAs.
+    CCG and MGs (and any other grammar formalism under the sky) still allows for massive overgeneration.
+    Overgeneration is not only theoretically unappealing, it also complicates parsing and machine learning.
+    I will discuss recent work on subregular syntax that identifies tighter restrictions on the shape of syntactic structures.
+    This work ties directly into my NSF Career award, and this part of the course acts as a kind of boot camp for potential RAs.
 
 
 ### Prerequisites
