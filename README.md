@@ -29,7 +29,7 @@ This course will focus on three aspects of computational syntax and  evaluate th
 
 1.  Does syntax require tree structures?
 
-    We will look at finite-state approaches to syntax and how these formalisms, even though they generate strings instead of trees, naturally give rise to tree structures.
+    We will look at finite-state approaches to syntax and how these formalisms --- even though they generate strings instead of trees --- naturally give rise to tree structures.
     We will also discuss why the competence-performance distinction is computationally inevitable, and what this entails for real-world applications. 
 
 2.  What purpose does syntactic structure serve?
@@ -179,8 +179,3 @@ Stony Brook University expects students to respect the rights, privileges, and p
 Faculty are required to report to the Office of University Community Standards any disruptive behavior that interrupts their ability to teach, compromises the safety of the learning environment, or inhibits students' ability to learn.
 Faculty in the HSC Schools and the School of Medicine are required to follow their school-specific procedures.
 Further information about most academic matters can be found in the Undergraduate Bulletin, the Undergraduate Class Schedule, and the Faculty-Employee Handbook. 
-
-[gitrepo]: https://github.com/StonyBrook-Lin539-F18/main
-[googlefolder]: http://lin539.thomasgraf.net/skillsurvey
-[server]: https://dev.tlt.stonybrook.edu:8000
-[sinc]: https://it.stonybrook.edu/services/virtual-sinc-site
