@@ -1,3 +1,6 @@
 *
 !*.md
 !*.mdown
+!*.pdf
+!handouts
+!handouts/**/
